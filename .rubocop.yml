@@ -1,0 +1,11 @@
+AllCops:
+  TargetRubyVersion: 3.1
+
+Layout/CaseIndentation:
+  IndentOneStep: true
+
+Metrics/ParameterLists:
+  Enabled: false
+
+Style/HashSyntax:
+  EnforcedShorthandSyntax: either_consistent
